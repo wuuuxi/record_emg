@@ -1,0 +1,9 @@
+# Default ignored files
+/.idea
+*.mot
+*.csv
+*.xlsx
+*.png
+*.npy
+*.md
+*.txt
